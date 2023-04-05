@@ -2,7 +2,7 @@
 
 - 🔭 I’m a PhD candidate in Hunan Univeristy, and currently a temporarily full-time research assistant in The Hong Kong Polytechnic University (PolyU)
 - 🌱 I’m currently learning power system resilience enhancement and integated energy system optimization
-- 💬 feel free to make contact with me wang_yuxuan@hnu.edu.cn or yuxuan.wang@polyu.edu.hk
+- 💬 feel free to make contact with me wang_yuxuan@hnu.edu.cn or yuxuanee.wang@polyu.edu.hk
 
 <!--
 **sometimesstudy/sometimesstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

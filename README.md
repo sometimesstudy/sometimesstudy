@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a PhD candidate in Hunan Univeristy, and currently a full-time Research Assistant in The Hong Kong Polytechnic University (PolyU)
+- 🔭 I’m a PhD candidate with Electrical Engineering background, I am willing to share some codes when I try to learn amazing things
 - 🌱 I’m currently learning power system resilience enhancement and integated energy system optimization
 
 <!--

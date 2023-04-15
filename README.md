@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a PhD candidate with Electrical Engineering background, I am willing to share some codes when learning amazing knowledge.
+- 🔭 I’m a PhD candidate with Electrical Engineering background, I am willing to share some codes when learning.
 - 🌱 I’m currently learning power system resilience enhancement and integated energy system optimization
 
 <!--

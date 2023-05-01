@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a PhD candidate with Electrical Engineering background, I am willing to share some codes when learning.
-- 🌱 I’m currently learning power system resilience enhancement and integated energy system optimization
+- 🌱 I’m currently learning power system resilience enhancement and integrated energy system optimization
 
 <!--
 **sometimesstudy/sometimesstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
